@@ -22,9 +22,9 @@
         <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hola]]></title>
-        <id>hola</id>
-        <link href="https://hiiamtrong.github.io/conkabietboi/blog/hola"/>
+        <title type="html"><![CDATA[Tìm hiểu các component trong material]]></title>
+        <id>material-io/components</id>
+        <link href="https://hiiamtrong.github.io/conkabietboi/blog/material-io/components"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
     </entry>

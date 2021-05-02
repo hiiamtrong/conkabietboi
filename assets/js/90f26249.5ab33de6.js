@@ -1,1 +1,0 @@
-(self.webpackChunk_4_handy_material_classic=self.webpackChunk_4_handy_material_classic||[]).push([[990],{1324:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/conkabietboi/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/conkabietboi/blog/tags/hola"}')}}]);

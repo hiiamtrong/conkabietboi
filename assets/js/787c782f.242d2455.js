@@ -1,0 +1,1 @@
+(self.webpackChunk_4_handy_material_classic=self.webpackChunk_4_handy_material_classic||[]).push([[648],{6246:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/conkabietboi/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/conkabietboi/blog/tags/docusaurus"}')}}]);

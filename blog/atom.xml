@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hiiamtrong.github.io/conkabietboi/blog</id>
+    <id>https://hiiamtrong.github.io/blog</id>
     <title>Conkabietboi Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hiiamtrong.github.io/conkabietboi/blog"/>
+    <link rel="alternate" href="https://hiiamtrong.github.io/blog"/>
     <subtitle>Conkabietboi Blog</subtitle>
-    <icon>https://hiiamtrong.github.io/conkabietboi/img/shark.svg</icon>
+    <icon>https://hiiamtrong.github.io/img/shark.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>

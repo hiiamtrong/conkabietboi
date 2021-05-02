@@ -90,8 +90,7 @@ module.exports = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/hiiamtrong/conkabietboi/edit/master/blog/',
+          editUrl: 'https://github.com/hiiamtrong/conkabietboi/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

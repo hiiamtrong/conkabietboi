@@ -1,1 +1,0 @@
-(self.webpackChunk_4_handy_material_classic=self.webpackChunk_4_handy_material_classic||[]).push([[596],{9713:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/conkabietboi/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

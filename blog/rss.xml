@@ -8,9 +8,9 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Tìm hiểu các component trong material]]></title>
+            <title><![CDATA[Tìm hiểu các components trong material]]></title>
             <link>https://hiiamtrong.github.io/conkabietboi/blog/2021/05/03/first</link>
-            <guid>Tìm hiểu các component trong material</guid>
+            <guid>Tìm hiểu các components trong material</guid>
             <pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
         </item>

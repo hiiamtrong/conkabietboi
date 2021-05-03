@@ -1,0 +1,1 @@
+(self.webpackChunk_4_handy_material_classic=self.webpackChunk_4_handy_material_classic||[]).push([[78],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"T\xecm hi\u1ec3u c\xe1c components trong material","permalink":"/conkabietboi/blog/2021/05/03/first"}]}')}}]);
